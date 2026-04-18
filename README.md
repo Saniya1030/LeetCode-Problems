@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 ## Simulation
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1544-make-the-string-great) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

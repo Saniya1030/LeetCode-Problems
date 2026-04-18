@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
@@ -45,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1544-make-the-string-great](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->

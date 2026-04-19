@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [1021-remove-outermost-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
@@ -59,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->

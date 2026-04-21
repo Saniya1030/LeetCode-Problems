@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0155-min-stack) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->

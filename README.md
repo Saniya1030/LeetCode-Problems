@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0402-remove-k-digits) |

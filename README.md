@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0402-remove-k-digits) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

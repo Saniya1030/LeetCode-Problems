@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0394-decode-string) |
 ## Dynamic Programming
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->

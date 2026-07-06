@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0986-interval-list-intersections](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0337-house-robber-iii) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->

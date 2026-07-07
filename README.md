@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -171,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 ## Sweep Line
 |  |

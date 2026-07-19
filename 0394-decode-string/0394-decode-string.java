@@ -1,9 +1,9 @@
 class Solution {
     public String decodeString(String s) {
-        Stack<String>strStack=new Stack<>();
-        Stack<Integer>numStack=new Stack<>();
+        Stack<Integer>numst=new Stack<>();
+        Stack<String>strst=new Stack<>();
         int num=0;
-    String currStr="";
+        String currstr="";
         for(char ch:s.toCharArray())
         {
             if(Character.isDigit(ch))
@@ -12,30 +12,28 @@ class Solution {
             }
             else if(ch=='[')
             {
-                numStack.push(num);
-                strStack.push(currStr);
+                numst.push(num);
+                strst.push(currstr);
 
                 num=0;
-                currStr="";
+                currstr="";
             }
             else if(ch==']')
             {
-                int repeat=numStack.pop();
-                String prevstr=strStack.pop();
-                StringBuilder sb=new StringBuilder(prevstr);
+                int repeat=numst.pop();
+                String prev=strst.pop();
 
+                StringBuilder sb=new StringBuilder(prev);
                 for(int i=0;i<repeat;i++)
-                {                    
-                    sb.append(currStr);
+                {
+                    sb.append(currstr);
                 }
-                currStr=sb.toString();
+                currstr=sb.toString();
             }
             else{
-                currStr+=ch;
+                currstr+=ch;
             }
-
         }
-        return currStr;
-        
+        return currstr;
     }
 }

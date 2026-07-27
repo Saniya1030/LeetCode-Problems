@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0337-house-robber-iii) |
+| [0547-number-of-provinces](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0968-binary-tree-cameras](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0968-binary-tree-cameras) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
@@ -203,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1765-map-of-highest-peak) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1765-map-of-highest-peak) |
 ## Stack
 |  |
 | ------- |

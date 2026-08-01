@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0735-asteroid-collision) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0337-house-robber-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0337-house-robber-iii) |
+| [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0968-binary-tree-cameras](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0968-binary-tree-cameras) |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

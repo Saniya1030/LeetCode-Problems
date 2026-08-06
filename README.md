@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1544-make-the-string-great) |
+| [1768-merge-strings-alternately](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Monotonic Stack
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
+| [1768-merge-strings-alternately](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3794-reverse-string-prefix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3794-reverse-string-prefix) |

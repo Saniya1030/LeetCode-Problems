@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3794-reverse-string-prefix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Monotonic Stack
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Design
 |  |
@@ -259,9 +262,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->

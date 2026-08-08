@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0986-interval-list-intersections](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0994-rotting-oranges) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0968-binary-tree-cameras](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0968-binary-tree-cameras) |
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |
@@ -267,9 +270,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 ## Number Theory
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

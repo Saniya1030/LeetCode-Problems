@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0986-interval-list-intersections](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0968-binary-tree-cameras](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0968-binary-tree-cameras) |
+| [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 ## Number Theory
 |  |
@@ -280,8 +284,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->

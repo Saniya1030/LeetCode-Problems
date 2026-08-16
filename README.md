@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1765-map-of-highest-peak) |
+| [2029-stone-game-ix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [2029-stone-game-ix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Design
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
 | ------- |
@@ -297,12 +301,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -311,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -331,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

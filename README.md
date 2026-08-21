@@ -359,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->

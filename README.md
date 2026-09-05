@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Nim Game
 |  |
 | ------- |

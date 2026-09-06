@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0402-remove-k-digits) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0337-house-robber-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0337-house-robber-iii) |

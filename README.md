@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [0940-distinct-subsequences-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [1768-merge-strings-alternately](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [0968-binary-tree-cameras](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0968-binary-tree-cameras) |
 | [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1406-stone-game-iii) |

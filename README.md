@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0968-binary-tree-cameras) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0968-binary-tree-cameras) |
 ## Sweep Line
@@ -463,4 +466,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

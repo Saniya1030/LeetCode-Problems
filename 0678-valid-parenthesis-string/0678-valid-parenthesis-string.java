@@ -1,49 +1,48 @@
 class Solution {
     public boolean checkValidString(String s) {
+        Stack<Integer>open=new Stack<>();
+        Stack<Integer>star=new Stack<>();
+        for(int i=0;i<s.length();i++)
+        {
+            char ch=s.charAt(i);
 
-        Stack<Integer> open = new Stack<>();
-        Stack<Integer> star = new Stack<>();
-
-        for (int i = 0; i < s.length(); i++) {
-
-            char ch = s.charAt(i);
-
-            if (ch == '(') {
+            if(ch=='(')
+            {
                 open.push(i);
             }
-
-            else if (ch == '*') {
+            else if(ch=='*')
+            {
                 star.push(i);
             }
 
-            else { // ch == ')'
+            else {
+              if(!open.isEmpty())
 
-                if (!open.isEmpty()) {
-                    open.pop();
-                }
-                else if (!star.isEmpty()) {
-                    star.pop();
-                }
-                else {
-                    return false;
-                }
+              {
+                open.pop();
+              }
+              else if(!star.isEmpty()){
+                star.pop();
+              }
+
+              else
+
+              {return false;
+              }
             }
         }
+        while(!open.isEmpty() && !star.isEmpty())
+        {
+            if(open.peek()<star.peek())
 
-        // Match remaining '(' with '*' after them
-        while (!open.isEmpty() && !star.isEmpty()) {
-
-            if (open.peek() < star.peek()) {
+            {
                 open.pop();
                 star.pop();
             }
-            else {
-                // '*' occurs before '('
-                // It cannot act as ')' for this '('
+            else{
                 return false;
             }
         }
-
         return open.isEmpty();
     }
 }

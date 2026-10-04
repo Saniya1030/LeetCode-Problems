@@ -17,7 +17,7 @@ class Solution {
     int count=0;
     public int kthSmallest(TreeNode root, int k) {
        int ans= inorder(root,k).val;
-        return ans;
+       return ans;
     }
     private TreeNode  inorder(TreeNode root,int k)
     {
@@ -37,4 +37,5 @@ class Solution {
         }
         return inorder(root.right,k);
     }
+
 }

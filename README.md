@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0739-daily-temperatures) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0486-predict-the-winner](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [2029-stone-game-ix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching

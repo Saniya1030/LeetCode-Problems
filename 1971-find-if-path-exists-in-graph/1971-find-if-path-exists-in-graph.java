@@ -1,35 +1,32 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        ArrayList<ArrayList<Integer>>adjls=new ArrayList<>();
+        ArrayList<ArrayList<Integer>>graph=new ArrayList<>();
         for(int i=0;i<n;i++)
         {
-            adjls.add(new ArrayList<>());
+            graph.add(new ArrayList<>());
         }
-        for(int rows[]:edges)
+        for(int[] edge:edges)
         {
-            int u=rows[0];
-            int v=rows[1];
-            adjls.get(u).add(v);
-            adjls.get(v).add(u);
+            graph.get(edge[0]).add(edge[1]);
+            graph.get(edge[1]).add(edge[0]);
         }
         boolean visited[]=new boolean[n];
-        return dfs(adjls,visited,source,destination);
+        return dfs(source,destination,graph,visited);
     }
-    private boolean dfs(ArrayList<ArrayList<Integer>>adjls,boolean visited[],int source,int destination)
+    private boolean dfs(int source,int destination,ArrayList<ArrayList<Integer>>graph,boolean[] visited)
     {
-        if(source==destination)
-        {
-            return true;
-        }
+        if(source==destination)return true;
         visited[source]=true;
-        for(int i:adjls.get(source))
+        for(int neighbour:graph.get(source))
         {
-            if(visited[i]!=true)
+            if(!visited[neighbour])
             {
-               if( dfs(adjls,visited,i,destination)){
+                if(dfs(neighbour,destination,graph,visited))
+            {
+                dfs(neighbour,destination,graph,visited);
                 return true;
-               }
             }
+        }
         }
         return false;
     }

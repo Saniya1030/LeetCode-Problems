@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1765-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1905-count-sub-islands) |
 | [2029-stone-game-ix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1765-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [1905-count-sub-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1765-map-of-highest-peak) |
+| [1905-count-sub-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1905-count-sub-islands) |
 ## Stack
 |  |
 | ------- |

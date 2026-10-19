@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0951-flip-equivalent-binary-trees) |
 | [0968-binary-tree-cameras](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0968-binary-tree-cameras) |
+| [1020-number-of-enclaves](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1765-map-of-highest-peak) |

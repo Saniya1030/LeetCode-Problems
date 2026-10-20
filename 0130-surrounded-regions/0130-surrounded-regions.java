@@ -1,62 +1,54 @@
 class Solution {
     public void solve(char[][] board) {
-
-        int n = board.length;
-        int m = board[0].length;
-
-        // Traverse first and last row
-        for (int i = 0; i < m; i++) {
-            if (board[0][i] == 'O') {
-                dfs(0, i, board);
-            }
-            if (board[n - 1][i] == 'O') {
-                dfs(n - 1, i, board);
-            }
-        }
-
-        // Traverse first and last column
-        for (int j = 0; j < n; j++) {
-            if (board[j][0] == 'O') {
-                dfs(j, 0, board);
-            }
-            if (board[j][m - 1] == 'O') {
-                dfs(j, m - 1, board);
-            }
-        }
-
-        // Convert board
-        for (int a = 0; a < n; a++) {
-            for (int b = 0; b < m; b++) {
-
-                if (board[a][b] == 'T') {
-                    board[a][b] = 'O';
-                } else if (board[a][b] == 'O') {
-                    board[a][b] = 'X';
+        Queue<int[]>q=new LinkedList<>();
+        int n=board.length;
+        int m=board[0].length;
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++)
+            {
+                if(i==0 || j==0||i==n-1 ||j==m-1)
+                {
+                    if(board[i][j]=='O')
+                    {
+                        q.offer(new int[]{i,j});
+                        board[i][j]='M';
+                    }
                 }
             }
         }
-    }
-
-    private void dfs(int i, int j, char[][] board) {
-
-        int n = board.length;
-        int m = board[0].length;
-
-        // Boundary check
-        if (i < 0 || j < 0 || i >= n || j >= m || board[i][j] != 'O') {
-            return;
+        while(!q.isEmpty())
+        {
+            int ceil[]=q.poll();
+            int row=ceil[0];
+            int col=ceil[1];
+            board[row][col]='M';
+            int drow[]={-1,0,+1,0};
+            int dcol[]={0,+1,0,-1};
+            for(int k=0;k<4;k++)
+            {
+                int nrow=row+drow[k];
+                int ncol=col+dcol[k];
+                if(nrow>=0  && nrow<n && ncol>=0 && ncol<m && board[nrow][ncol]=='O')
+                {
+                    board[nrow][ncol]='M';
+                    q.offer(new int[]{nrow,ncol});
+                }
+            }
         }
-
-        int delRow[] = {-1, 0, 1, 0};
-        int delCol[] = {0, 1, 0, -1};
-
-        board[i][j] = 'T';
-
-        for (int k = 0; k < 4; k++) {
-            int newRow = i + delRow[k];
-            int newCol = j + delCol[k];
-
-            dfs(newRow, newCol, board);
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0;j<m;j++)
+            {
+                if(board[i][j]=='M')
+                {
+                    board[i][j]='O';
+                }
+                 else if(board[i][j]=='O')
+                {
+                    board[i][j]='X';
+                }
+            }
         }
     }
 }

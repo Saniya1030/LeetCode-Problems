@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3794-reverse-string-prefix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Monotonic Stack
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/Saniya1030/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Saniya1030/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |

@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/Saniya1030/LeetCode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Saniya1030/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
